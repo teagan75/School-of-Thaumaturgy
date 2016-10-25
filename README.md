@@ -8,3 +8,7 @@ I do not make players create everything in the mods because there is so much in 
 If you want to play this on a server, there is plenty of room left in the school for players to spread out and make their own bases.
  
 Map made by http://www.planetminecraft.com/project/hogwarts-51840/
+
+Known Issues:
+
+ - When you receive a warp effect, the "Skyrim-like" notifications from Better Questing will black out your screen. This is temporary and does not stop you from looking in your inventory or books. A simple restart will solve this until it happens again. The dev of Better Questing is already aware. 
